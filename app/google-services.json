@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "536759089737",
+    "firebase_url": "https://mashabachat-default-rtdb.firebaseio.com",
+    "project_id": "mashabachat",
+    "storage_bucket": "mashabachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536759089737:android:fa15adfbba1e29476f9d98",
+        "android_client_info": {
+          "package_name": "com.example.mashabachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536759089737-lkbdbctdgrdjsth7cc46mdb4pfn9cfuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mashabachat",
+            "certificate_hash": "17a6c9c590b33775614ada060d1589a1f2b46da9"
+          }
+        },
+        {
+          "client_id": "536759089737-ahhn1i9ufm7g1gavo9i5a1ari9kbupfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2YWOOODlpwu9HimEBqKJt9JhOywxWx-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536759089737-ahhn1i9ufm7g1gavo9i5a1ari9kbupfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

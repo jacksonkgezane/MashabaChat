@@ -1,0 +1,2 @@
+rootProject.name='MashabaChat'
+include ':app'
